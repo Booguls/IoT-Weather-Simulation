@@ -5,7 +5,7 @@ By examining previous attempts to improve the reliability of IoT networks, this 
 
 ## Softwares Used
 Node-RED  
-MongoDB Atlas
+MongoDB Atlas  
 MongoDB Compass
 
 ## Python 3.0 Libraries Used
